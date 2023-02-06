@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Our website"
 output: html_document
 ---
 
